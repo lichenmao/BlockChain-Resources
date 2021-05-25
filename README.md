@@ -1,4 +1,4 @@
-# BlockChain-Resource
+# BlockChain-Resources
 - http://blockchain.whu.edu.cn/blockchainpapers/ 武汉大学密码学和区块链实验室整理的相关论文
 - http://xblock.pro 。中山大学区块链实验室：提供了大量的区块链交易数据集，以及相关论文。
 - https://github.com/decrypto-org/blockchain-papers 。区块链论文列表
