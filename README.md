@@ -9,3 +9,4 @@
 - https://github.com/LiuBoyu/blockchain 区块链中文资源列表
 - https://github.com/suixinio/awesome-blockchain-cn 区块链技术开发相关资料
 - https://github.com/selcux/blockchain-resources 区块链的相关课程和书籍
+- https://github.com/PlyTools/awesome-blockchain-papers 这是对blockchain-papers的一个持续更新版本
