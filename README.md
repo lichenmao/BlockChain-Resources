@@ -10,3 +10,4 @@
 - https://github.com/suixinio/awesome-blockchain-cn 区块链技术开发相关资料
 - https://github.com/selcux/blockchain-resources 区块链的相关课程和书籍
 - https://github.com/PlyTools/awesome-blockchain-papers 这是对blockchain-papers的一个持续更新版本
+- https://github.com/baozjian/Top-BlockChain-paper 信息和密码学相关的会议
